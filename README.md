@@ -43,6 +43,7 @@ To run this project locally, follow these steps:
 ```
 ├── dataset_path/                # Dataset folder with video files
 ├── Python file                  # Python files for multiple operations
+```
 
 ## Future Work
 - **Multi-person tracking**: Implementing multi-person tracking for crowded environments.
