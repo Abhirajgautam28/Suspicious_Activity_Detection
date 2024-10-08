@@ -54,5 +54,3 @@ To run this project locally, follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-You can replace the placeholder values (like `XX%`, `YY%`, and `ZZ%`) with actual metrics from your project.
