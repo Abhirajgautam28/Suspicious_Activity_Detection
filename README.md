@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
    ```
 3. Run the detection script:
    ```bash
-   python detect.py --source <your-video-source>
+   python main.py --source <your-video-source>
    ```
 
 ## Usage
@@ -41,13 +41,8 @@ To run this project locally, follow these steps:
 
 ## Folder Structure
 ```
-├── dataset/                # Dataset folder with video files
-├── models/                 # YOLOV11 X-Pose pretrained model
-├── outputs/                # Output folder for results and visualizations
-├── detect.py               # Main detection script
-├── requirements.txt        # List of dependencies
-└── README.md               # This file
-```
+├── dataset_path/                # Dataset folder with video files
+├── Python file                  # Python files for multiple operations
 
 ## Future Work
 - **Multi-person tracking**: Implementing multi-person tracking for crowded environments.
