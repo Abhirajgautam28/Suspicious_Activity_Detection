@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 - For pre-recorded footage, replace `<your-video-source>` with the file path.
   
 ## Results
-- The model achieves an accuracy of **XX%** in detecting suspicious movements with a **precision** of **YY%** and a **recall** of **ZZ%**.
+- The model achieves an accuracy of **72%** in detecting suspicious movements.
 - Pose estimation allows for tracking keypoints to identify specific behaviors, enhancing the overall detection capability.
 
 ## Folder Structure
